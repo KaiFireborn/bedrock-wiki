@@ -20,7 +20,8 @@ This page contains a list of frequently asked questions in the technical-bedrock
 ---
 
 ### What is the default friction of vanilla blocks?
-0.5
+0.6
+(Not 0.0, 0.5 or 1.0 as often falsly assumed. The Value mut be in range 0.1-1.0)
 
 ---
 
